@@ -1,5 +1,5 @@
 /// This facade example is an original example
-/// Be careful not to create a massive Facade
+/// Be careful not to create a god object
 void main() {
   Cleaner cleaner = new Cleaner(
     LaundryMinion(),
