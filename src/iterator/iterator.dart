@@ -1,3 +1,4 @@
+/// Classic implementation of an iterator over a singly linked list
 void main() {
   List<String> list = List();
   list.add("abc");
