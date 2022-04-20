@@ -1,4 +1,5 @@
 /// This pattern is crap, but here it is
+/// Avoid god objects
 void main() {
   Mediator mediator = FormDialog();
   Component button = Button(mediator);
